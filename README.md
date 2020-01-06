@@ -35,25 +35,25 @@
 ## 其他作品
 
 ### 敦泰建設官方網站
-[GitHub]()
+[GitHub]()  
 簡介: 首次將近70%獨立開發的切版網站
 
 ### 雅丰何醫師個人醫美網站
-[網站連結](https://www.bsu3.com/)
+[網站連結](https://www.bsu3.com/)  
 簡介: 對畫面十足要求的醫美網站
 
 ### 馥宇行官方網站
-[網站連結](http://www.fuyuhang.com/)
+[網站連結](http://www.fuyuhang.com/)  
 簡介: 首次將近70%獨立開發有後台的網站，使用Drupal開發
 
 ### 銀鐸醫療官方網站
-[網站連結](http://www.silverbell.com.tw/)
+[網站連結](http://www.silverbell.com.tw/)  
 簡介: 首次使用Jquery的一般網站
 
 ### gogo講客話官方網站
-[網站連結](http://go.gtv.com.tw/)
+[網站連結](http://go.gtv.com.tw/)  
 簡介: 首次協同開發具有商業價值的官方網站
 
 ### Efficat官方網站
-[網站連結](http://www.efficat.com/)
+[網站連結](http://www.efficat.com/)  
 簡介: 首次相對複雜的邏輯互動的原購物網站，現階段已變成一般官方網站
