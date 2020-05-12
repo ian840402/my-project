@@ -20,14 +20,14 @@
 
 ### 人力媒合 App
 [網站連結](http://bsdctw.net/match-APP/app/#/)  
-[GitHub](https://github.com/ian840402/gym-app)  
+[GitHub](https://github.com/ian840402/match-app)  
 簡介: 此專案為一個媒合的手機 App，特色在於需求方與供給方可以自行在平台再自行媒合，完全不需透過廠商來進行配對。
 難題: 此專案起初客戶並不清楚他們所希望的媒合流程，所以必須要協助客戶思考整體流程與邏輯。
 ****
 
 ### 東震購物 App
 [網站連結](http://bsdctw.net/tocin/app/#/)  
-[GitHub](https://github.com/ian840402/gym-app)  
+[GitHub](https://github.com/ian840402/tocin-app)  
 簡介: 此專案為一個購物 App，特在在於他有非常客製化的購物流程，去對應不同的商品與使用者。
 難題: 此專案最困難的地方在於他的購物流程與其他購物網站相較之下，非常的複雜以及相當多的細節需要處理，不同的產品與不同的使用者角色會對應不同的購物流程。
 > 此專案幫助公司解決了客戶所提出的各種困難的需求
